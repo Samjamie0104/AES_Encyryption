@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\aes_encryption.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\aes_encryption.dir/objects.a @CMakeFiles\aes_encryption.dir\objects1.rsp
-C:\msys64\ucrt64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\aes_encryption.dir/objects.a -Wl,--no-whole-archive -o aes_encryption.exe -Wl,--out-implib,libaes_encryption.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\aes_encryption.dir\linkLibs.rsp

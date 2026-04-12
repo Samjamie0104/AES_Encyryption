@@ -665,6 +665,7 @@ static void test_rsa_roundtrip(const RSAKey *k) {
     printf("[RSA round-trip 12345]  %s\n", ok ? "PASS":"FAIL");
 }
 
+#ifndef HYBRID_CRYPTO_TESTS
 int main(void) {
     rng_seed();
 
@@ -701,3 +702,4 @@ int main(void) {
     blob_free(&rec);
     return match ? 0 : 1;
 }
+#endif /* HYBRID_CRYPTO_TESTS */
