@@ -4,5 +4,29 @@
   "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\aes_encryption.dir\\src\\main.c.obj -c \"C:\\Users\\toppi\\OneDrive\\Professional Developement\\AES_Encyryption\\src\\main.c\"",
   "file": "C:/Users/toppi/OneDrive/Professional Developement/AES_Encyryption/src/main.c",
   "output": "CMakeFiles/aes_encryption.dir/src/main.c.obj"
+},
+{
+  "directory": "C:/Users/toppi/OneDrive/Professional Developement/AES_Encyryption/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHYBRID_CRYPTO_TESTS @CMakeFiles/test_bignum.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\test_bignum.dir\\tests\\test_bignum.c.obj -c \"C:\\Users\\toppi\\OneDrive\\Professional Developement\\AES_Encyryption\\tests\\test_bignum.c\"",
+  "file": "C:/Users/toppi/OneDrive/Professional Developement/AES_Encyryption/tests/test_bignum.c",
+  "output": "CMakeFiles/test_bignum.dir/tests/test_bignum.c.obj"
+},
+{
+  "directory": "C:/Users/toppi/OneDrive/Professional Developement/AES_Encyryption/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHYBRID_CRYPTO_TESTS @CMakeFiles/test_aes_ops.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\test_aes_ops.dir\\tests\\test_aes_ops.c.obj -c \"C:\\Users\\toppi\\OneDrive\\Professional Developement\\AES_Encyryption\\tests\\test_aes_ops.c\"",
+  "file": "C:/Users/toppi/OneDrive/Professional Developement/AES_Encyryption/tests/test_aes_ops.c",
+  "output": "CMakeFiles/test_aes_ops.dir/tests/test_aes_ops.c.obj"
+},
+{
+  "directory": "C:/Users/toppi/OneDrive/Professional Developement/AES_Encyryption/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHYBRID_CRYPTO_TESTS @CMakeFiles/test_hybrid.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\test_hybrid.dir\\tests\\test_hybrid.c.obj -c \"C:\\Users\\toppi\\OneDrive\\Professional Developement\\AES_Encyryption\\tests\\test_hybrid.c\"",
+  "file": "C:/Users/toppi/OneDrive/Professional Developement/AES_Encyryption/tests/test_hybrid.c",
+  "output": "CMakeFiles/test_hybrid.dir/tests/test_hybrid.c.obj"
+},
+{
+  "directory": "C:/Users/toppi/OneDrive/Professional Developement/AES_Encyryption/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -DHYBRID_CRYPTO_TESTS @CMakeFiles/test_rng.dir/includes_C.rsp -g -std=gnu99 -o CMakeFiles\\test_rng.dir\\tests\\test_rng.c.obj -c \"C:\\Users\\toppi\\OneDrive\\Professional Developement\\AES_Encyryption\\tests\\test_rng.c\"",
+  "file": "C:/Users/toppi/OneDrive/Professional Developement/AES_Encyryption/tests/test_rng.c",
+  "output": "CMakeFiles/test_rng.dir/tests/test_rng.c.obj"
 }
 ]
