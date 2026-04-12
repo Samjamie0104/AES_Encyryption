@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/toppi/OneDrive/Professional Developement/AES_Encyryption/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -std=gnu99 -o CMakeFiles\\aes_encryption.dir\\src\\main.c.obj -c \"C:\\Users\\toppi\\OneDrive\\Professional Developement\\AES_Encyryption\\src\\main.c\"",
+  "file": "C:/Users/toppi/OneDrive/Professional Developement/AES_Encyryption/src/main.c",
+  "output": "CMakeFiles/aes_encryption.dir/src/main.c.obj"
+}
+]
