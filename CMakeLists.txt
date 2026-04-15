@@ -21,6 +21,8 @@ set(TEST_NAMES
     test_aes_ops
     test_hybrid
     test_rng
+    test_adversarial
+    test_stress
 )
 
 foreach(TEST_NAME ${TEST_NAMES})
